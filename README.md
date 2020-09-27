@@ -97,3 +97,27 @@ notes**, links to more reading, and more.
 
 _Paul and Rúnar_
 
+
+## My Checklist
+### Part 1 - Introduction to FP
+- [x] 1. What is functional programming?
+- [x] 2. Getting Started
+- [x] 3. Functional Data structures
+- [ ] 4. Handling errors without exceptions
+- [ ] 5. Strictness and laziness
+- [ ] 6. Purely functional state
+
+### Part 2 - Functional Design and combinator libraries
+- [ ] 7. Purely functional parallelism
+- [ ] 8. Property-based testing
+- [ ] 9. Parser combinators
+
+### Part 3 - Common structures in functional design
+- [ ] 10. Monoids
+- [ ] 11. Monads
+- [ ] 12. Applicative and traversable functions
+
+### Part 4 - Effects and I/O
+- [ ] 13. External effects and I/O
+- [ ] 14. Local effects and mutable state
+- [ ] 15. Stream processing and incremental I/O
